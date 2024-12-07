@@ -16,7 +16,7 @@ My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA.
 
 ## Code
 
-[Link to the Report](/assets/main.ipynb)
+[Link to the Code](/assets/main.ipynb)
 
 ## Dataset
 
