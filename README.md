@@ -12,9 +12,12 @@ My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA.
 
 ## Report
 
-[Link to the Report](/assets/Report.pdf)
+[Link to the Report](/assets/Report_Final.pdf)
 
 ## Code
+
+[Link to the Report](/assets/main.ipynb)
+
 ## Dataset
 
 [Link to the Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
