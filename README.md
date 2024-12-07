@@ -1,4 +1,4 @@
-**Hello, Welcome To My A&O C111 Project!** <img align="right" width="220" height="220" src="/assets/IMG/ai_img.jpg">
+**Hello, Welcome To My A&O C111 Project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
 My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA. 
 <br>
