@@ -3,6 +3,9 @@
 My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA. 
 
 ## Report
+
+[Link to the Report](/assets/Report.pdf)
+
 ## Code
 ## Dataset
 
