@@ -5,6 +5,10 @@ My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Report
 
@@ -12,6 +16,8 @@ My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA.
 
 ## Code
 ## Dataset
+
+[Link to the Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 
 
