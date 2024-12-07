@@ -1,17 +1,12 @@
-**Hi class, welcome to the AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
+**Hello, Welcome To My A&O C111 Project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
-For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
+My name is Vishnu Manathattai and I am a 3rd year CS Major at UCLA. 
 
-* To get data for your project, you could:
-  * use **your own data** from a separate research activity
-  * **scour the internet** to find something original, then preprocess it yourself - see the Module Overview on BruinLearn for some resources
-  * browse an archive of data designed for machine learning problems, such as the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+## Report
+## Code
+## Dataset
 
-* Your report should be written in a scientific language and style. [This template page](/project.md) gives an example structure that you could use, but feel free to make it your own. See Bruinlearn for some examples from previous students.
 
-Your website will be a great addition to your CV, and a place to host future projects too since it doubles as a GitHub repository. The first step is to set up a project website like this one by following the instructions below. 
-
-## How does this website work?
 
 First, check out the Github repository for this site: [https://github.com/atmosalex/atmosalex.github.io/](https://github.com/atmosalex/atmosalex.github.io/).
 
